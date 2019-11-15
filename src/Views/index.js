@@ -1,0 +1,13 @@
+export {default as MyDrive } from './MyDrive/index';
+export {default as Shared } from './Shared/index';
+export {default as Recent } from './Recent/index';
+export {default as Trash } from './Trash/index';
+export {default as SignUp } from './SignUp/index';
+export {default as SignIn } from './SignIn/index';
+export {default as OrganizationDash} from './OrganizationDash/index';
+export {default as InstituteDash} from './InstituteDash/index';
+export {default as StudentDash} from './StudentDash/index';
+export {default as TeacherDash} from './TeacherDash/index';
+export {default as InboxMail} from './Inbox/index';
+export {default as DraftMail} from './Drafts/index';
+export {default as SentMail} from './Sent/index';
